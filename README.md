@@ -195,7 +195,7 @@ docker run -d \
   -e WEBUI_ACCESS_PASSWORD=your_secure_password \
   -v $(pwd)/data:/app/data \
   --name codex-console \
-  ghcr.io/<yourname>/codex-console:latest
+  ghcr.io/czl000/codex-console:latest
 ```
 
 说明:
